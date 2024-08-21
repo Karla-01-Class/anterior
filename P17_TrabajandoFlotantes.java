@@ -1,4 +1,4 @@
-// Trabajando con números flotantes
+// Trabajando con números flotantes.
 public class P17_TrabajandoFlotantes {
     public static void main(String[] args) {
     float num1 = 423.45f;

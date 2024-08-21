@@ -19,3 +19,8 @@
 - P10_HipotenusaTriangulo.java
 - P11_CalcularAngulo.java
 - P12_ConvertirTemperatura.java
+- P16_TrabajandoEnteros
+- P17_TrabajandoFlotantes.java
+- P18_TrabajandoConstante.java
+- P19_TrabajandoCaracteres.java
+- P20_ConversionTipo.java
