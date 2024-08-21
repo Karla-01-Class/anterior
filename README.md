@@ -24,3 +24,9 @@
 - P18_TrabajandoConstante.java
 - P19_TrabajandoCaracteres.java
 - P20_ConversionTipo.java
+
+## ACTIVIDAD 4
+- P21_VerificaNumeroV2.java
+- P22_VerificaSuma.java
+- P23_ConvertirTemperaturaV2.java
+- P24_PagaTrabajadorV2.java
