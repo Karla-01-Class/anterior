@@ -17,6 +17,9 @@
 - P10_HipotenusaTriangulo.java
 - P11_CalcularAngulo.java
 - P12_ConvertirTemperatura.java
+- P13_VolumenCilindro.java
+- P14_CalculoTiempo.java
+- P15_ConvertirADolares.java
 
 ## Actividad 3
 - P16_TrabajandoEnteros
