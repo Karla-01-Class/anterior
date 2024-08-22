@@ -1,5 +1,6 @@
-// Verifica si la suma de dos numeros es igual a un tercero
-//
+// Verifica si la suma de dos numeros es igual a un tercero.
+
+
 import java.util.Scanner;
 public class P22_VerificaSuma {
     public static void main(String[] args) {

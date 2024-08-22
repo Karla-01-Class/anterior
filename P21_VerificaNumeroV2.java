@@ -1,5 +1,5 @@
-// Verifica si un número es postivo, negativo o cero
-//
+// Verifica si un número es postivo, negativo o cero.
+
 import java.util.Scanner;
 public class P21_VerificaNumeroV2 {
     public static void main(String[] args) {

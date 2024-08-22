@@ -1,3 +1,5 @@
+// convierte de pesos a dolares
+
 import java.util.Scanner;
 
 public class P15_ConvertirADolares {

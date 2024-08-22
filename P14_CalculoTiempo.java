@@ -1,4 +1,4 @@
-
+// haceuna conversion de horas a dias, minutos y segundos
 import java.util.Scanner;
 
 

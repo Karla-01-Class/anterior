@@ -1,4 +1,4 @@
-// P13_VolumenCilindro - calcula el area de un cilindro
+// P13_VolumenCilindro - calcula el area de un cilindro.
 
 import java.util.Scanner;
 

@@ -1,6 +1,5 @@
 // Trabajando con con variables y literales enteras.
 
-//
 public class P16_TrabajandoEnteros {
     public static void main(String[] args) {
     int num1 = 42;
