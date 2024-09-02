@@ -70,3 +70,8 @@
 - P46_TablaConversion.java
 - P47_ConjeturaCollatz.java
 
+## PRACTICA 3
+- P48_ImparesAscendente.java
+- P49_ImparesDescendente.java
+- P50_ConversionTemperaturas.java
+- P51_FibonacciSeries.java
