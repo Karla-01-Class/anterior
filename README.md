@@ -82,3 +82,9 @@
 - P54_ArribaAbajo.java
 - P55_SumaParesImpares.java
 - P56_SumaPromedio.java
+
+## ACTIVIDAD 10
+- P57_TablasMultiplicar.java
+- P58_Piramide.java
+- P59_FactorialNumeros.java
+- P60_SumaTerminos.java
