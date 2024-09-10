@@ -6,7 +6,6 @@ public class EP01_PrimerExamenParcial {
         int Edad, TDin=0;
         char Genero,  TP;
         int TAlu=0, TDo=0,Ttra=0, THo = 0, TMu = 0, TPart=0, TRe=0, R1 = 0, R2 = 0, R3 = 0;
-        double promEd;
         char resp = 'S';
 
         Scanner obj = new Scanner(System.in);
@@ -19,7 +18,8 @@ public class EP01_PrimerExamenParcial {
 
         do{
 
-        System.out.print("Dame la edad ? "); Edad = obj.nextInt();
+        System.out.print("Dame tu nombre: "); Nom = obj.next();
+        System.out.print("Dame la edad "); Edad = obj.nextInt();
 
             if( Edad >=23 ) {
                 System.out.print("Seleccione su genero: [M] o [F] "); Genero = obj.next().charAt(0);
