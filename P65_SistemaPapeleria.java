@@ -1,3 +1,6 @@
+//SIMULA UN CONTADOR DE VENTAS
+//Escobedo Aguilera Karla Karina
+
 import java.util.Scanner;
 
 public class P65_SistemaPapeleria {
