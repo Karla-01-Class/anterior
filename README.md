@@ -94,3 +94,6 @@
 - P62_SecuenciaNumeros2.java
 - P63_SumaTerminos1.java
 - P64_SumaTerminos2.java
+
+## PRACTICA 5
+- P65_SistemaPapeleria.java
