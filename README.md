@@ -121,4 +121,11 @@
 - P77_DiaSemana.java
 - P78_MedidasLongitud.java
 - P79_SumaMultiplos.java
-- P80_Angulo.java
+- P80_Angulo.
+
+## Actividad 13
+- P81_InicializaArregloNumeros.java
+- P82_InicializaArregloCadenas.java
+- P83_InicializaNombresEdades.java
+- P84_PromedioArreglo.java
+- P85_NombresEdades.java
