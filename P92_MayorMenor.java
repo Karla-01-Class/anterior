@@ -30,6 +30,7 @@ public class P92_MayorMenor {
     }
 
     public static void main(String[] args) {
+        System.out.print("\033[H\033[2J"); System.out.flush();
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Ingrese la cantidad de números: ");

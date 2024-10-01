@@ -36,14 +36,15 @@ public class P93_ParesImpares {
     }
 
     public static void main(String[] args) {
+        System.out.print("\033[H\033[2J"); System.out.flush();
         int[] a = new int[MAX];
-        int[] b = new int[MAX]; // Arreglo b declarado aunque no se usa en este caso
+        int[] b = new int[MAX]; 
 
         Random random = new Random();
 
-        // Rellenar el arreglo a[] con números aleatorios entre 0 y 20
+        
         for (int i = 0; i < MAX; i++) {
-            a[i] = random.nextInt(21); // Genera un número entre 0 y 20
+            a[i] = random.nextInt(21); 
         }
 
         System.out.println("Elementos del arreglo a[]:");

@@ -24,6 +24,7 @@ public class P90_Temperaturas {
     }
 
     public static void main(String[] args) {
+        System.out.print("\033[H\033[2J"); System.out.flush();
         float[] temperaturas = {2.34f, 44.56f, 7.89f, 0.5f, 2.5f, 4.67f, 40.3f, 22.35f, 56.22f};
 
         mostrarPrimerElemento(temperaturas);
