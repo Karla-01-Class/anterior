@@ -137,6 +137,10 @@
 - P89_ArregloAleatorios.java
 
 ## PRACTICA 7
+- p90_Temperaturas
+- p91_MayoresPromedio
+- p92_MayorMenor
+- p93_ParesImpares 
 
 ## ACTIVIDAD 15
 - P94_Empleado01
