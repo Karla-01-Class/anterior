@@ -147,3 +147,8 @@
 - P95_Empleado02
 - P96_Empleado03
 - P97_Empleado04
+
+## PRACTICA 8
+- p98_Circulo
+- p99_Rectangulo
+- p100_Articulo 
