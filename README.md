@@ -152,3 +152,8 @@
 - p98_Circulo
 - p99_Rectangulo
 - p100_Articulo 
+
+## ACTIVIDAD 16
+- P101_Persona
+- P102_Autor
+- P103_Cliente
