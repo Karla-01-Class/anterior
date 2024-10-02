@@ -1,6 +1,7 @@
 package P103_Cliente;
 
 public class Factura {
+    
     private int Id;
     private Cliente Cliente;
     private double Monto;

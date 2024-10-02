@@ -2,6 +2,7 @@ package P102_Autor;
 
 public class App {
     public static void main(String[] args) {
+        
         // Prueba Autor
         Autor a1 = new Autor("Tan Ah Teck", "ahteck@nowhere.com");
         System.out.println(a1);

@@ -1,6 +1,7 @@
 package P102_Autor;
 
 public class Autor {
+    
     private String Nombre;
     private String Correo;
 

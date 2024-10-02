@@ -1,6 +1,7 @@
 package P103_Cliente;
 
 public class Cliente {
+    
     private int Id;
     private String Nombre;
     private int Descuento;

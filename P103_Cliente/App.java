@@ -1,6 +1,7 @@
 package P103_Cliente;
 
 public class App {
+    
     public static void main(String[] args) {
         Cliente c1 = new Cliente(88, "Tan Ah Teck", 10);
         System.out.println(c1);

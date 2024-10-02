@@ -2,8 +2,10 @@ package P101_Persona;
 
 public class App {
     public static void main(String[] args) {
+
         Persona persona1 = new Persona();
         Trabajo trabajo = new Trabajo();
+        
         trabajo.setId(1);
         trabajo.setRol("Chofer");
         trabajo.setSalario(200);

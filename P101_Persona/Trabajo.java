@@ -1,6 +1,7 @@
 package P101_Persona;
 
 public class Trabajo {
+
     private int Id;
     private String Rol;
     private double Salario;
