@@ -149,14 +149,35 @@
 - P97_Empleado04
 
 ## PRACTICA 8
-- p98_Circulo
-- p99_Rectangulo
-- p100_Articulo 
+- P98_Circulo
+- P99_Rectangulo
+- P100_Articulo 
 
 ## ACTIVIDAD 16
 - P101_Persona
 - P102_Autor
 - P103_Cliente
+
+## PRACTICA 9
+- P104_PuntoCirculo
+- P105_PuntoTriangulo
+
+## ACTIVIDAD 17
+- P106_Persona
+- P107_Forma
+
+## PRACTICA 10
+- P108_Vehiculo
+- P109_FormaV2
+
+## ACTIVIDAD 18
+- P110_CuentaBancariaV1
+
+## ACTIVIDAD 19
+- P111_CuentaBancariaV2
+
+## PRACTICA 11
+- P112_ControlVentas
 
 ## ACTIVIDAD 20
 - P114_Animal
