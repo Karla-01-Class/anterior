@@ -157,3 +157,9 @@
 - P101_Persona
 - P102_Autor
 - P103_Cliente
+
+## ACTIVIDAD 20
+- P114_Animal
+- P115_Telefono
+- P116_Juego
+- P117_FiguraGeometrica
